@@ -1,6 +1,6 @@
 - 👋 Hola! Soy @CandelaSua
 - 👀 Soy reclutadora de personal IT
-- 🌱 Estoy en constante busqueda de candidatos, mi linkedin es Candela Anzotegui Suayter
+- 🌱 Estoy en constante busqueda de candidatos, mi linkedin es Candela Suayter
 - 📫 Pueden pasarme su CV a suayter.c@opendevpro.com
 
 <!---
